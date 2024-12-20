@@ -1,2 +1,1 @@
-# Android-App-with-Java
-Android Apps with Java
+# Android Apps with Java - Android Studio Giraffe Version
